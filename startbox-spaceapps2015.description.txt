@@ -1,0 +1,114 @@
+modular-education-control-center-startbox
+
+codename "control center console" 
+
+the startbox is a mixture of (os)hard- and software.
+its meant to be used as an education control center for launching a rocket.
+it will show old and young kids the thrill of a rocket launch and all the procedures and let them have a closer look into
+ - last but not least they will become a flight operator. 
+ the box contains a small standard circuit with the ability to add different modules, such as countdown module, sensor modules (wind, weather, compass, camera), rocket telemetrie and so on.
+
+This project is solving the 3-2-1 LIFTOFF: Launch that Rocket! challenge.
+
+Description
+
+the goal of this project is to design a concept and finaly build a kit for a model rocket startbox acting as a small control center with the ability to add modules like sensors, rocket telemetrie etc.
+
+its meant to use with model rockets to give the young and old kids a view into rocket preparation tasks before and after launch and feel all the pins and needles during process..
+
+the box is built almost from scratch, using small programmable pics, easy electric and electronic cicuits in addition to small pieces of software.
+
+A module could contain sensors for measuring e.g. 
+
+* distances to the launchpad 
+
+* wind and wetaher conditions 
+
+* countdown and other alerts for e.g. light barriers around the launchpad, cameras etc.., almost everything you can think of :)
+
+
+the hardware will use very simple electronics and software for default tasks, like ignitor circuit checks, countdown, lots of switches and lamps.
+
+output of all sensordata and current task is send via simple serial output and can be used to feed e.g. a gameengine to show the data simulation and telemetire on screen etc. 
+(but this would be user contributed pieces of software maybe)
+
+no external computers should be needed to have a fully working control-center but can be added to evaluate data or do other tasks.
+in addition, the console is able to receive signals from modules and external computers. 
+think of a map with obstacles in which direction the rocket should not start, or computing estimated landing position etc....
+
+some aditional keywords i sshould have mentioned somewhere... 
+but my english is very broken. 
+so instead of spending hours on correcting, i just spread them out here....
+
+* should be mobile version, or stationary bigger one.
+
+* solid versions for education, schools, universities...., training purposes
+
+*  opensource hardware, software
+
+*  easy electronics
+
+* not expensive 
+
+*  should available as kit and ready to use
+
+* build your own! or get one from a manufacturer
+
+* extendable
+
+* spare parts should all easily available
+
+* programming should be easy
+
+* create own modules
+
+* connect boxes together and share modules
+
+* connect boxes to computer an internet, use real time clocks to synchronous rocket starts
+
+* connect the box to your computer and simulate a launch in a game
+
+* connect the box to computer and make your own games or simulations
+ 
+
+(sry for my bad english ;-)
+
+irc channel for this project is at sourceforge.net #startbox
+
+a prototype of the startbox was born in 2011 for the CCCamp in Finowfurt, but failed successfully on the field... we continued with a simple battery and 2-wires!
+
+https://www.youtube.com/watch?v=8UvRFyXk8Ks
+
+
+want to participate? questions? send a mail to sa-startbox@raketenclub.de
+
+-kalle
+
+
+failure is not an option
+
+--
+Project Information
+
+License: GNU Affero General Public License 3.0 (AGPL-3.0)"
+
+Source Code/Project URL: http://www.raketenclub.de/
+--
+Resources
+
+Prototype (Idea) 2011 (cccamp) - https://www.youtube.com/watch?v=8UvRFyXk8Ks
+
+Facebook - https://www.facebook.com/Raketenclub
+Twitter - https://twitter.com/RaketenClub
+Google - https://twitter.com/RaketenClub
+Youtube - https://www.youtube.com/user/Raketenclub
+--
+Team
+
+    Volker Augustin
+
+
+
+
+
+ 

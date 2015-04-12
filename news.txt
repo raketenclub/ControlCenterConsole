@@ -1,0 +1,39 @@
+project log :)
+
+updates:
+
+
+12.04.2015:
+
+final steps!
+put all together and publish all my work.
+review description
+
+11.04.2015: 
+
+you can follow the project on twitter, facebook, or g+, 
+#rocketlaunch #startbox. 
+still a one man show. 
+but i got connected to another team with a very similar thingy. go or nogo? thats the question. greeeets! 
+im still not sure about what license is the correct one.
+tried to join lab75 in ffm, but tarvelling would take too much time, so only virtual participation at home. i got green light and a go from my wife and daughter.
+
+10.04.2015:
+
+watch the amazing opening ceremony in lab75 frankfurt.
+
+04.04.2015: 
+
+for simplicity i would prefer the picaxe education pic, 
+lots of I/O needed. 
+i had some experiences with the picaxe as a very beginner in electronics, 
+and its easines is fascinating and it has everything needed - 
+lots of dac i/o, i2c, sound etc., 
+so the project can concentrate on scheme and a detailed description 
+of what the cicuit need, the design of the panel/box/(koffer) etc. so we get a good concept, 
+and maybe kind of prototype.
+
+03.04.2015: i (kalle) personally will take part in the spacechallenge at lab75 in frankfurt. 
+and we will be online (irc/mail, etc) all the time - virtual participation is higly welcome
+
+
