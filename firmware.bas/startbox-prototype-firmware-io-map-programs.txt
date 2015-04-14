@@ -23,18 +23,18 @@ CPU1:
 8. 	Serial Out CPU2
 
 Programme:
-	99: Startup, Standby
+	00: Startup, Standby
 
 	40: Start Checkliste:	41-49: checklist
 	60: GO, Warten auf Druck auf Countdown
 	
-	70: Auswahl Treibsatz?
+	xx70: Auswahl Treibsatz?
 
-	00: Start/Launch Signal
+	99: Start/Launch Signal
 
 Initialize:
 	setze alle variablen auf null, und startwerte
-	program = 99
+	program = 00
 
 	
 
