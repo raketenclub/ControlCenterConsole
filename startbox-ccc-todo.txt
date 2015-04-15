@@ -1,0 +1,8 @@
+todo:
+
+* split diagrams
+* lego prototype - modules - ...
+* cad drawings for possible default layout, mobile version
+* 3d ?
+* schematics for std circuits, std modules
+* ...
